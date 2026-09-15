@@ -32,10 +32,10 @@ const education = [
   {
     education_id: 1,
     profile_id: 1,
-    school_name: "State University",
-    degree: "B.S. Computer Science",
-    field_of_study: "Computer Science",
-    start_date: "2019-09-01",
+    school_name: "Dalubhasaan ng Lungsod ng Lucena",
+    degree: "B.S. Information Technology",
+    field_of_study: "Information Technology",
+    start_date: "2023-09-01",
     end_date: "2023-05-15",
   },
 ];
